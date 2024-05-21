@@ -1,4 +1,4 @@
-# GO Starter
+# Gildedrose GO refactoring kata
 
 - Run :
 
